@@ -1,6 +1,5 @@
 package com.kevinjoramos.employeecrudapi.rest;
 
-import com.kevinjoramos.employeecrudapi.dao.EmployeeDAO;
 import com.kevinjoramos.employeecrudapi.entity.Employee;
 import com.kevinjoramos.employeecrudapi.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
